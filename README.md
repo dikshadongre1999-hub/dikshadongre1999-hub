@@ -55,3 +55,10 @@ Python • SQL • Pandas • NumPy • Scikit-Learn • Power BI • Excel • 
 * Exploratory Data Analysis Projects
 
 ⭐ Always learning, building, and exploring the world of Data Science.
+
+
+## 📊 GitHub Stats
+
+![Diksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshadongre1999-hub&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshadongre1999-hub&layout=compact)
