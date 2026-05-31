@@ -1,28 +1,35 @@
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 # Hi 👋, I'm Diksha Dongre
 
-🎓 B.Tech CSE Graduate
+### 🎓 B.Tech CSE Graduate
 
-📊 Aspiring Data Scientist & Data Analyst
+### 📊 Aspiring Data Scientist & Data Analyst
 
-🐍 Skilled in Python, SQL, Machine Learning, Pandas, NumPy
+🚀 Passionate about Data Science, Machine Learning, and Data Analytics.
 
-📈 Passionate about transforming data into meaningful insights and solving real-world problems
+💡 I enjoy transforming raw data into meaningful insights and building intelligent solutions that solve real-world problems.
 
-🚀 Currently building projects in Data Analytics, Machine Learning, and Data Visualization
+---
 
 ## 🔭 Current Focus
 
-* Data Science Projects
-* Machine Learning Models
-* SQL & Database Management
-* Data Visualization with Power BI
+* 📊 Data Science Projects
+* 🤖 Machine Learning Models
+* 🗄️ SQL & Database Management
+* 📈 Power BI Dashboards
+* 📉 Data Visualization
+
+---
 
 ## 🌱 Currently Learning
 
-* Advanced Machine Learning
-* Deep Learning
-* Cloud for Data Science
-* Generative AI
+* 🧠 Advanced Machine Learning
+* 🔥 Deep Learning
+* 🤖 Generative AI
+* ☁️ Cloud for Data Science
+
+---
 
 ## 👯 Looking to Collaborate On
 
@@ -30,35 +37,68 @@
 * Machine Learning Projects
 * Open Source Analytics Projects
 
+---
+
 ## 💬 Ask Me About
 
 * Python
 * SQL
+* Pandas
+* NumPy
 * Machine Learning
 * Data Analysis
-* Pandas & NumPy
+* Power BI
 
-## 📫 Reach Me
+---
 
-* LinkedIn: [www.linkedin.com/in/diksha-dongre-174604411](http://www.linkedin.com/in/diksha-dongre-174604411)
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/diksha-dongre-174604411
+* Email: [dikshadongre1999@gmail.com](mailto:dikshadongre1999@gmail.com)
+
+---
 
 ## 🛠️ Languages and Tools
 
-Python • SQL • Pandas • NumPy • Scikit-Learn • Power BI • Excel • Git • GitHub • Machine Learning
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+---
 
 ## 📌 Featured Projects
 
-* Customer Churn Prediction
-* Sales Data Analysis Dashboard
-* Student Performance Prediction
-* House Price Prediction
-* Exploratory Data Analysis Projects
+* 📊 Customer Churn Prediction
+* 🏠 House Price Prediction
+* 📈 Sales Data Analysis Dashboard
+* 🎓 Student Performance Prediction
+* 🔍 Exploratory Data Analysis
+* 📉 Power BI Business Dashboard
 
-⭐ Always learning, building, and exploring the world of Data Science.
-
+---
 
 ## 📊 GitHub Stats
 
-![Diksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshadongre1999-hub&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikshadongre1999-hub&show_icons=true&theme=radical"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshadongre1999-hub&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshadongre1999-hub&layout=compact&theme=radical"/>
+
+---
+
+## 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshadongre1999-hub&theme=radical" />
+
+---
+
+## 🏆 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=dikshadongre1999-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+
+---
+
+### ✨ Fun Fact
+
+📊 I love finding hidden patterns in data and turning them into actionable insights.
+
+⭐ Always learning, building, and exploring the world of Data Science.
